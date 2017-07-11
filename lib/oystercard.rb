@@ -10,5 +10,20 @@ class Oystercard
         @balance += top_up_amount
     end
     
+    def deduct(fare)
+        @balance -= fare
+    end
+    
+    def touch_in
+        @traveling = true
+    end
+    
+    def touch_out
+        @traveling = false
+    end
+    
+    def in_journey?
+        @traveling
+    end
     
 end
