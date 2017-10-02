@@ -18,10 +18,6 @@ By the end of the week, the goal is to be able to answer "yes" to the week's pri
 
 * **Can you use object-oriented design principles to write better code?**
 
-## Code quality kickoff workshop
-
-https://github.com/makersacademy/skills-workshops/blob/master/week-2/code_quality_discussion.md
-
 ## Weekly challenge user stories
 
 Here are the user stories you will be working on for this project:
